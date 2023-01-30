@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Label Your Input and Results
+  - title                                 : Label Your Inputs and Results
     description                           : By labeling Inputs and Results you can easily keep track of what you're calculating and what you've previously calculated, great for tracking expenses, budgets or other sizable and/or complex calculations!!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Correct Your Inputs
+    description                           : Easily correct typos in Inputs, and all dependent Results are automatically and immediately recalculated!
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
