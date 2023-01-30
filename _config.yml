@@ -43,8 +43,8 @@ features                                  :
     description                           : Easily correct typos in Inputs, and all dependent Results are automatically and immediately recalculated!
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Familiar Chat Interface
+    description                           : Easily scroll up and down in the familiar chat interface to revisit and/or correct previous calculations!
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
